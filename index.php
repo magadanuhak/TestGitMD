@@ -7,3 +7,4 @@
  */
 $a=1; $b=2; $c=$a+$b;
 echo "Salutare Lume".$c;
+//test code
