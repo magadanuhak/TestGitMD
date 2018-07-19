@@ -6,5 +6,10 @@
  * Time: 11:04
  */
 $a=1; $b=2; $c=$a+$b;
+// Coment 2
+echo "test";
+function testfunc($text){
+    echo $text;
+}
 echo "Salutare Lume".$c;
 //test code
